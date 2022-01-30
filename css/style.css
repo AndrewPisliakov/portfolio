@@ -426,6 +426,9 @@ svg:hover #svg-hover {
     fill: #BDAE82;
 }
 
+a:visited > svg > path {
+    fill: #BDAE82;
+}
 
 .price {
     /*  height: 845px; */
